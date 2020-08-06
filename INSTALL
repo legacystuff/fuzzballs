@@ -1,0 +1,9 @@
+Building FuzzCoin
+
+See doc/readme-qt.rst for instructions on building FuzzCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FuzzCoin.
+
+See doc/build-*.txt for instructions on building FuzzCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FuzzCoin.
